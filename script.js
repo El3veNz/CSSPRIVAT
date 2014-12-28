@@ -22,7 +22,7 @@ if (!document.getElementById('Css-WiBla')) { //si le document n'existe pas
 	link.id   = 'Css-WiBla';
 	link.rel  = 'stylesheet';
 	link.type = 'text/css';
-	link.href = 'https://raw.githubusercontent.com/El3veNz/CSS/master/cssprive.css';
+	link.href = 'https://dl.dropboxusercontent.com/s/iggwz2q1dwr7bdm/HidekiStyle.css';
 	link.media = 'all';
 	head.appendChild(link);
 	
